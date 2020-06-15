@@ -1,2 +1,4 @@
-# leaflet-nominatim
-Teste utilizando a biblioteca Leaflet com a Nominatim.
+# Teste Leaflet - Nominatim
+
+- Utilização da biblioteca [Leaflet](https://leafletjs.com/)
+- Utilização da biblioteca [Nominatim](https://nominatim.org/)
