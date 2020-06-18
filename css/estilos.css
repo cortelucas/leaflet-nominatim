@@ -1,9 +1,3 @@
-/*Imports*/
-@import 'reset.css';
-@import 'https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css';
-@import 'https://unpkg.com/leaflet@1.6.0/dist/leaflet.css';
-@import 'popup.css';
-
 /*Geral*/
 body{
     background-color: rgb(109, 164, 182);
